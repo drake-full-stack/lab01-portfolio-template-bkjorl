@@ -7,7 +7,7 @@
 ## 📋 Lab Checklist
 
 - [X] Customize `index.html` with your about me content
-- [ ] Create `hobbies.html` with semantic HTML elements  
+- [X] Create `hobbies.html` with semantic HTML elements  
 - [X] Create `projects.html` placeholder page
 - [X] Add navigation between all pages
 - [ ] Deploy to GitHub Pages
